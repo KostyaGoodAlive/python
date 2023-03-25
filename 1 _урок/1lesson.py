@@ -1306,8 +1306,8 @@
 
 
 
-def gip(a,b):
-    c = a**2 + b**2
-    print(c**0,5)
-gip(3,4)    
+# def gip(a,b):
+#     c = a**2 + b**2
+#     print(c**0,5)
+# gip(3,4)    
 
