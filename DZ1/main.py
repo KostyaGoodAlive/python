@@ -1,5 +1,5 @@
-import sin
+from sin import Sign
 
-result = print(sin.Sign(0,2))
+print(Sign(0) + Sign(5))
 
 
