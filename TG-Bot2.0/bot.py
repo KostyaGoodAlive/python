@@ -30,7 +30,7 @@ async def start(message: types.Message):
      await message.answer(f'Команды {start} и {genre} помогут тебе с этим')
 
 @dp.message_handler(commands='genre')
-async def start(message: types.Message):
+async def start(message: types.ContentTypes.S):
 
      kb = [
           
